@@ -1,2 +1,4 @@
-# java-projects-
-projects created for JetBrains academy
+* Simple Chatbot
+* Phonebook
+* Coffee Machine
+* Tic Tac Toe
