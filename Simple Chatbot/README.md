@@ -1,4 +1,4 @@
-A simple chatbot using Java Basics
+A simple chatbot using Java
 
 ### Output
 
