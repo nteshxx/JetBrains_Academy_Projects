@@ -1,4 +1,4 @@
-A repository containing all my Java projects on the Java Developer Track. A list of them is below
+A repository containing all my Java projects on the Java Developer Track.
 * Simple Chatbot
 * Phonebook
 * Coffee Machine
