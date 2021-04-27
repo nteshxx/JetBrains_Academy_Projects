@@ -1,4 +1,4 @@
-A Java program for implementing a Coffee Machine
+A Java program for implementing a Coffee Machine.
 
 ### Outpput >
 
